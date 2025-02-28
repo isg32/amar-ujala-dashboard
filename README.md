@@ -2,7 +2,7 @@
 
 A comprehensive web application for managing newspaper subscriptions, tracking deliveries, and processing payments for AmarUjala newspaper.
 
-![AmarUjala Dashboard](https://images.unsplash.com/photo-1504711434969-e33886168f5c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
+![AmarUjala Dashboard](https://india.mom-gmr.org/uploads/tx_lfrogmom/media/16512-1592_import.png)
 
 ## Features
 
@@ -57,8 +57,8 @@ Before you begin, ensure you have the following:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/amarujala-newspaper-dashboard.git
-   cd amarujala-newspaper-dashboard
+   git clone https://github.com/isg32/amar-ujala-dashboard.git
+   cd amar-ujala-dashboard
    ```
 
 2. Install dependencies:
